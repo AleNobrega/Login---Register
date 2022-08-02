@@ -25,7 +25,7 @@ input {
 }
 
 img {
-  width: 18%;
+  width: 200px;
 }
 
 button {
@@ -43,21 +43,6 @@ button {
 }
 
 a {
-    text-decoration: none;
-    color: #4a525b;
-}
-
-@media screen and (max-width: 900px) {
-  header {
-    display: none;
-  }
-
-  img {
-    position: static;
-  }
-
-  button {
-    display: block;
-    margin: 20px;
-  }
+  text-decoration: none;
+  color: #4a525b;
 }
